@@ -1,0 +1,409 @@
+│   Tech_Company_Group_Acronyms.pdf
+│
+├───AI_Doc
+│       AI_Agents_Plugins_By_Language_IDE.pdf
+│       AI_CloudDevOps_Integration_UseCase.pdf
+│       AI_DesignPatterns_Master_UseCases_Products.pdf
+│       AI_Generated_Content_Detection_Tools_50plus.pdf
+│       AI_Libraries_100plus_Categorized_Table.pdf
+│       AI_Libraries_By_Domain_MasterList.pdf
+│       AI_Libraries_Company_UseCases.pdf
+│       AI_ML_DL_DS_Difference_UseCases_Diagram.pdf
+│       AI_Models_By_Category_Table.pdf
+│       AI_Model_Types_Comparison_Table.pdf
+│       AI_Strategy_Callcenter_Customerservice_Scoring.pdf
+│       AI_Terminology_ModelTypes_UseCases_Master.pdf
+│       ai_terms_all_642_complete.xlsx
+│       AI_Tools_List_UseCases_Purpose.pdf
+│       Deploy_AI_App_OpenAI_Clarification.pdf
+│       Python_AI_Modules_UseCases.pdf
+│
+├───Blockchain
+│       Blockchain_Projects_Use_Cases_And_Resume_Guide.pdf
+│       Blockchain_Technologies_Installation_And_Examples_Guide.pdf
+│
+├───Cloud_DevOps_Doc
+│   ├───AWS_Azure_GCP_Doc
+│   │       AWS_Azure_GCP_Application_Request_Response_Traffic_Flow.pdf
+│   │       AWS_Azure_GCP_LaravelCloud_Services_Mapping.pdf
+│   │       AWS_Azure_GCP_Services_WhenToUse_WhenNotToUse.pdf
+│   │       AWS_Azure_GCP_Subscription_Types_Comparison.pdf
+│   │
+│   ├───AWS_Doc
+│   │       AWS_CodePipeline_S3_StaticSite_Deploy_Guide.pdf
+│   │       AWS_Common_Keywords_ByService_UseCases.pdf
+│   │       AWS_Engineer_Activities_OneTime_Daily.pdf
+│   │       AWS_Services_FreeTier_vs_Paid_Table.pdf
+│   │       AWS_vs_LaravelCloud_Subscriptions_Comparison.pdf
+│   │       AWS_vs_Laravel_Services_Comparison.pdf
+│   │
+│   ├───A_List_Of_All_Parameters_Doc
+│   │       AWS_Common_Service_Parameters_List.pdf
+│   │       Azure_Common_Service_Parameters_List.pdf
+│   │       CICD_Common_Service_Parameters_List.pdf
+│   │       Cloud_Security_Parameters_AWS_Azure_GCP.pdf
+│   │       Docker_Common_Service_Parameters_List.pdf
+│   │       GCP_Common_Service_Parameters_List.pdf
+│   │       GitHub_Common_Service_Parameters_List.pdf
+│   │       GitLab_Common_Service_Parameters_List.pdf
+│   │       Git_Common_Service_Parameters_List.pdf
+│   │       Jenkins_Common_Service_Parameters_List.pdf
+│   │       Kubernetes_Common_Service_Parameters_List.pdf
+│   │       Protocols_PortNumbers_List.pdf
+│   │       Terraform_Common_Service_Parameters_List.pdf
+│   │
+│   ├───Cloud_Doc
+│   │       Cloud_Computing_Service_Categories.pdf
+│   │       Cloud_DevOps_DesignPatterns_Master.pdf
+│   │       Cloud_DevOps_Learning_Roadmap.pdf
+│   │       Cloud_DevOps_Preparation_Checklist_AWS_Azure_GCP.pdf
+│   │       Cloud_Providers_Global_India_List.pdf
+│   │       Cloud_Roles_Comparison_Summary_Table.pdf
+│   │       Cloud_Roles_OneTime_vs_Daily_Activities_Table.pdf
+│   │       Cloud_Roles_Topics_Syllabus_Time_Reality_Check_Detailed_Table.pdf
+│   │       Cloud_SDK_Classes_Methods_AWS_Azure_GCP.pdf
+│   │       Cloud_Service_Icons_Visual_Reference.pdf
+│   │       Cloud_Terminology_AWS_Azure_GCP_Master.pdf
+│   │       Cloud_Terminology_MasterList_500plus.pdf
+│   │
+│   ├───Cloud_General_Doc
+│   │       Azure_AppService_vs_StaticWebApps_Comparison.pdf
+│   │       BareMetal_VM_Containers_Comparison_Table.pdf
+│   │       DayToDay_CloudServices_AWS_Azure_GCP_StudyList.pdf
+│   │       Definitions_And_Descriptions.pdf
+│   │       GitBash_Commands_DayToDay_OneTime_Table.pdf
+│   │       Git_Ignore_Explanation.pdf
+│   │       GovCloud_Providers_India_Global_List.pdf
+│   │       Govt_Container_Providers_India_List.pdf
+│   │       Heavyweight_Servers_In_Docker_Ubuntu22.pdf
+│   │       IT_Commands_Coverage_Overview.pdf
+│   │       Lightweight_Servers_In_Docker_Ubuntu22.pdf
+│   │       Roles_Responsibilities_Tools_Comparison_Table.pdf
+│   │       Security_Encryption_Certificates_List.pdf
+│   │       SRE_vs_DevOps_vs_Cloud_Engineer_Tools.pdf
+│   │       Technologies_Before_Cloud_Computing.pdf
+│   │       Ubuntu22_Common_Servers_Services_Table.pdf
+│   │
+│   ├───Commonly_Used_Services_Doc
+│   │       AWS_Azure_GCP_Commonly_Used_Services.pdf
+│   │       AWS_Commonly_Used_Services.pdf
+│   │       Azure_Commonly_Used_Services.pdf
+│   │       Common_Cloud_Services_AWS_GCP_Azure.pdf
+│   │       Compare_All_Parameters_Aws_Gcp_Azure.pdf
+│   │       GCP_Commonly_Used_Services.pdf
+│   │
+│   ├───Configuration_Management_Doc
+│   │       Ansible_Puppet_Chef_Parameters_Comparison.pdf
+│   │
+│   ├───Container_Doc
+│   │       Container_Orchestration_Tech_Table.pdf
+│   │       Container_Service_Providers_Global_India.pdf
+│   │       Container_vs_WebServer_vs_AppServer.pdf
+│   │
+│   ├───Deployment_Doc
+│   │       AzureDevOps_Deployment_Methods_Static_Dynamic.pdf
+│   │       Deployment_Models_WhenToUse_WhenToNotUse_Table.pdf
+│   │       Deployment_QA_Static_Dynamic_All_Environments.pdf
+│   │       Deploy_StaticGymApp_Azure_AppService_StaticWebApps.pdf
+│   │       Deploy_Zip_File_Across_Environments_Guide.pdf
+│   │       Deploy_Zip_Project_To_Local_Docker_Win_Ubuntu.pdf
+│   │       Tomcat_Setup_Deployment_Win_Ubuntu_Guide.pdf
+│   │       Universal_Zip_Deployment_Guide.pdf
+│   │
+│   ├───DevOps_Doc
+│   │       DevOps_Learning_Roadmap_HindiMedium_Hurdles.pdf
+│   │       DevOps_Roles_Comparison_Experience_Table.pdf
+│   │       DevOps_Roles_India_Salary_Certs_InterviewReady.pdf
+│   │       DevOps_Roles_OneTime_vs_Daily_Table.pdf
+│   │       DevSecOps_MasterList_Tools_Commands_UseCases.pdf
+│   │       DevSecOps_Terminology_Master_Table.pdf
+│   │
+│   ├───Docker_Doc
+│   │       DockerCompose_Stack_Pack_Unzip_Run.pdf
+│   │       Docker_Commands_Essential_Table.pdf
+│   │       Docker_Compose_Guide.pdf
+│   │       Docker_Detached_vs_Interactive_Mode.pdf
+│   │       Docker_Networking_Guide.pdf
+│   │       Docker_Services_Free_vs_Paid_Table.pdf
+│   │       Docker_Setup_Commands_Reference.pdf
+│   │       Docker_StorageDrivers_CoW_Explained.pdf
+│   │       Docker_Ubuntu22_Common_Servers_Platforms.pdf
+│   │
+│   ├───How_To_Create_CICD_Pipelines_Doc
+│   │       CICD_Pack_Dockerized_SpringBoot_Jenkins_GitHubActions_AWS.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Aws.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Azure.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Gcp.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Github.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Gitlab.pdf
+│   │       How_To_Create_CICD_Pipelines_In_Jenkins.pdf
+│   │
+│   ├───Iaas_Paas_Saas_Laas_Doc
+│   │       AWS_GCP_Azure_IaaS_Differences.pdf
+│   │       AWS_IaaS_PaaS_SaaS_LaaS_Services.pdf
+│   │       AWS_IaaS_Services_Complete_List.pdf
+│   │       AWS_LaaS_Services_Complete_List.pdf
+│   │       AWS_PaaS_Services_Complete_List.pdf
+│   │       AWS_SaaS_Services_Complete_List.pdf
+│   │       Azure_IaaS_PaaS_SaaS_LaaS_Services.pdf
+│   │       Azure_IaaS_Services_Complete_List.pdf
+│   │       Azure_LaaS_Services_Complete_List.pdf
+│   │       Azure_paaS_Services_Complete_List.pdf
+│   │       Azure_SaaS_Services_Complete_List.pdf
+│   │       Cloud_XaaS_Categories_Master_Table.pdf
+│   │       GCP_IaaS_PaaS_SaaS_LaaS_Services.pdf
+│   │       GCP_IaaS_Services_Complete_List.pdf
+│   │       GCP_LaaS_Services_Complete_List.pdf
+│   │       GCP_PaaS_Services_Complete_List.pdf
+│   │       GCP_SaaS_Services_Complete_List.pdf
+│   │
+│   ├───Infrastructure_Provisioning_Doc
+│   │       Terraform_CloudFormation_Crossplane_Comparison.pdf
+│   │
+│   ├───Install_And_Run_AWS_Doc
+│   │       Docker_Install_On_EC2_Ubuntu.pdf
+│   │       Jenkins_Install_EC2_Guide.pdf
+│   │       Kubernetes_Install_EC2_Ubuntu22_04.pdf
+│   │       Linux_Install_EC2_Guide.pdf
+│   │       Terraform_Install_EC2_Guide.pdf
+│   │       Ubuntu_Install_EC2_Guide.pdf
+│   │
+│   ├───Install_And_Run_Azure_Doc
+│   │       Docker_Install_AzureVM_Ubuntu.pdf
+│   │       Jenkins_Install_AzureVM_Ubuntu.pdf
+│   │       Kubernetes_Install_AzureVM_Guide.pdf
+│   │       Linux_Install_AzureVM_Guide.pdf
+│   │       Terraform_Install_AzureVM_Guide.pdf
+│   │       Ubuntu_Install_AzureVM_Guide.pdf
+│   │
+│   ├───Install_And_Run_GCP_Doc
+│   │       Docker_Install_GCE_Guide.pdf
+│   │       Jenkins_Install_GCE_Guide.pdf
+│   │       Kubernetes_Install_GCE_Guide.pdf
+│   │       Linux_Install_GCE_Guide.pdf
+│   │       Terraform_Install_GCE_Guide.pdf
+│   │       Ubuntu_Install_GCE_Guide.pdf
+│   │
+│   ├───Kubernetes_Doc
+│   │       Kubernetes_AWS_Azure_GCP_Services_Mapping_Table.pdf
+│   │       Kubernetes_Commands_Categorized_Table.pdf
+│   │       Kubernetes_Services_Free_vs_Paid_Table.pdf
+│   │
+│   ├───Laravel_Doc
+│   │       LaravelCloud_CICD_Deploy_Guide.pdf
+│   │       LaravelCloud_vs_AWS_Services_Mapping.pdf
+│   │       Laravel_DigitalOcean_AWS_Service_Mapping.pdf
+│   │       Laravel_Services_Free_vs_Paid_Table.pdf
+│   │
+│   ├───Linux_Doc
+│   │       Linux_chmod_Codes_List.pdf
+│   │       Linux_Cloud_DevSecOps_Combined_Architecture.pdf
+│   │       Linux_Commands_DayToDay_OneTime_CloudDevOps.pdf
+│   │       Linux_Commands_Definitions_List.pdf
+│   │       Linux_Distributions_Used_In_IT_Table.pdf
+│   │       Linux_Roles_OneTime_vs_Daily_Activities.pdf
+│   │       ShellScripting_Commands_DayToDay_OneTime_Table.pdf
+│   │
+│   ├───List_Of_All_Commands_Doc
+│   │       Bash_Scripting_Overview_CommonUse.pdf
+│   │       Cloud_Commands_Master_List.pdf
+│   │       DevOps_Commands_Master_List.pdf
+│   │       DevOps_Tools_Definitions_Commands.pdf
+│   │       Jenkins_CLI_Commands_List.pdf
+│   │       Terraform_Commands_List.pdf
+│   │
+│   └───SQL_Doc
+│           SQL_Commands_Definitions_List.pdf
+│
+├───Java_1.5_1.8_Stream_API
+│       01_Java_1.5_1.8_Accumulate_Elements.pdf
+│       02_Java_1.5_1.8_Transform_And_Group.pdf
+│       03_Java_1.5_1.8_Map_Reduce_Store.pdf
+│       04_Java_1.5_1.8_Logging.pdf
+│       05_Java_1.5_1.8_Printing.pdf
+│       06_Java_1.5_1.8_Updating_External_Systems.pdf
+│       07_Java_1.5_1.8_Combine_Values.pdf
+│       08_Java_1.5_1.8_Aggregate_Sum_Max_Concat.pdf
+│       09_Java_1.5_1.8_No_Custom_Logic_Allowed.pdf
+│       10_Java_1.5_1.8_Conditional_Check_Before_First_Match.pdf
+│       11_Java_1.5_1.8_Validation_Logic.pdf
+│       12_Java_1.5_1.8_Rule_Checks.pdf
+│       13_Java_1.5_1.8_Existence_Checks.pdf
+│       14_Java_1.5_1.8_Negative_Validation.pdf
+│
+├───Java_1.5_Stream_API
+│       01_Java_1.5_Accumulate_Elements.pdf
+│       02_Java_1.5_Transform_And_Group.pdf
+│       03_Java_1.5_Map_Reduce_Store.pdf
+│       04_Java_1.5_Logging.pdf
+│       05_Java_1.5_Printing.pdf
+│       06_Java_1.5_Updating_External_Systems.pdf
+│       07_Java_1.5_Combine_Values.pdf
+│       08_Java_1.5_Aggregate_Sum_Max_Concat.pdf
+│       09_Java_1.5_No_Custom_Logic_Allowed.pdf
+│       10_Java_1.5_Conditional_Check_Before_First_Match.pdf
+│       11_Java_1.5_Validation_Logic.pdf
+│       12_Java_1.5_Rule_Checks.pdf
+│       13_Java_1.5_Existence_Checks.pdf
+│       14_Java_1.5_Negative_Validation.pdf
+│       Java_1.5_All_Intermediate_And_Terminal_Operations.pdf
+│
+├───Java_1.8_Stream_API
+│       01_Java_1.8_Accumulate_Elements.pdf
+│       02_Java_1.8_Transform_And_Group.pdf
+│       03_Java_1.8_Map_Reduce_Store.pdf
+│       04_Java_1.8_Logging.pdf
+│       05_Java_1.8_Printing.pdf
+│       06_Java_1.8_Updating_External_Systems.pdf
+│       07_Java_1.8_Combine_Values.pdf
+│       08_Java_1.8_Aggregate_Sum_Max_Concat.pdf
+│       09_Java_1.8_No_Custom_Logic_Allowed.pdf
+│       10_Java_1.8_Conditional_Check_Before_First_Match.pdf
+│       11_Java_1.8_Validation_Logic.pdf
+│       12_Java_1.8_Rule_Checks.pdf
+│       13_Java_1.8_Existence_Checks.pdf
+│       14_Java_1.8_Negative_Validation.pdf
+│
+├───Java_Collections
+│       Java_Collections_All_Possible_Conversions_With_Code_Examples.pdf
+│       Java_Collections_Classes_and_Hierarchy_Complete_Guide.pdf
+│       Java_Collections_Framework_Complete_Guide.pdf
+│       Java_Collections_Internal_DS_Interview_Table.pdf
+│
+├───Java_Doc
+│       Compatible Feature.pdf
+│       Convert_Array_To_All_Java_8_Collections_With_Examples.pdf
+│       DSA_Java_1.8_Interview_Questions_Code.pdf
+│       Explanation_Of_==_Vs_Equals()_Vs_Hashcode().pdf
+│       Java1_to_21_Features_ClassNames.pdf
+│       Java8_Stream_API_Execution_Order_Explanation.pdf
+│       Java_1.8_Design_Philosophy_Naming_Conventions.pdf
+│       Java_17_LTS_Key_Features.pdf
+│       Java_1_21_Compiler_Comparison.pdf
+│       Java_8_Stream_Api_Classes_Methods_And_Use_Cases_With_Examples.pdf
+│       Java_Algorithm_ClassTypes_MasterTable.pdf
+│       Java_Collection_Iteration_Methods_From_Version_1_To_21_With_Examples.pdf
+│       Java_CommandLineArgs_Guide_STS.pdf
+│       Java_DayToDay_Classes_Methods_MasterList.pdf
+│       Java_DesignPatterns_CoreConcepts_Enterprise_Master.pdf
+│       Java_Exceptions_Master_Table.pdf
+│       Java_Full_Feature_List_Java1_To_Java24.pdf
+│       Java_Generic_Types_Concept_Usage_In_Collections.pdf
+│       Java_invokedynamic_Explained.pdf
+│       Java_Keywords_EndToEnd_1_to_21.pdf
+│       Java_Multithreading_Executor_VirtualThreads_Guide.pdf
+│       Java_Program.pdf
+│       Java_Roles_Activities_Experience_Comparison.pdf
+│       Java_Roles_OneTime_vs_Daily_Activities.pdf
+│       Java_Serializable_vs_Cloneable_Table.pdf
+│       Java_SE_1_to_21_Features_Master_Table.pdf
+│       Java_Spring_Kafka_Annotations_Master.pdf
+│       Java_Static_NonStatic_Execution_Lifecycle.pdf
+│       Java_Streams_API_100Plus_Interview_Questions_Category_Wise_List.pdf
+│       Java_String_vs_StringBuilder_vs_StringBuffer_Rules.pdf
+│       Java_Terminology_Dictionary_Master.pdf
+│       Java_Util_Package_Complete_Guide_Arrays_Class.pdf
+│       Java_Versions_1_to_21_WhenToUse.pdf
+│       Java_Versions_Features_UniqueClassNames.pdf
+│       Java_vs_Python_Similarities_Differences.pdf
+│       Java_vs_Scala_Comparison_and_Java8_Functional_Concepts.pdf
+│       JDK_8_(1.8.0_202)_Directory_Tree_Explanation.pdf
+│       JDK_Working_StepByStep_Explained.pdf
+│       JUnit5_Vs_Mockito_Comparison.pdf
+│       JVM_Internal_Utility_Classes.pdf
+│       Microservices_Classes_Methods_DayToDay.pdf
+│       Microservices_DesignPatterns_Deployment_Types_Mapping.pdf
+│       Microservices_DesignPatterns_Master_List.pdf
+│       Microservices_Terminology_Master_Table.pdf
+│       OAuth2_JWT_Spring_Security_Comparison.pdf
+│       Object_and_Thread_Lifecycle_Correlation.pdf
+│       Object_Thread_Correlation_and_Lifecycle.pdf
+│       Principal_Hierarchy_Diagram.jpg
+│       Programming_vs_Theory_Questions_With_JavaCode_Citi_Bank_1.pdf
+│       Programming_vs_Theory_Questions_With_JavaCode_Citi_Bank_2.pdf
+│       SOLID_Principles_in_java_lang_Object_Java1_to_21.pdf
+│       SOLID_Principles_in_java_lang_String_Java1_to_21.pdf
+│       SpringBoot_DayToDay_Classes_Methods_MasterList.pdf
+│       SpringBoot_Principle_AntiPattern_Fix_Code.pdf
+│       SpringBoot_Terminology_Master_List.pdf
+│       SpringFramework_Classes_Annotations_Methods_Master.pdf
+│       Spring_Boot_Compatibility_Matrix_Java_Version_Support.pdf
+│       Spring_Framework_Terminology_Master_Table.pdf
+│       StringClass.jpg
+│       Transaction_Management_RealWorld_Guide.pdf
+│       Types_of_Principles_in_Java_1_to_21.pdf
+│
+├───Java_Stream_API
+│       50_Java_Stream_Api_Coding_Interview_Problems_With_Solutions.pdf
+│       Java8_All_Interface_Types_With_Code_Examples.pdf
+│       Java8_Lambda_Internal_Working.pdf
+│       Java_ForEach_Method_Internal_Working_And_Examples.pdf
+│       Java_Functional_Interface_Explanation_Example.pdf
+│       Java_Functional_Interface_Target_Type _Explanation_Example.pdf
+│       Java_Generic_Types_Concept_Usage_In_Collections.pdf
+│       Java_Stream_API_100_Plus_FAANG_MAANG_Global_Companies_Interview_Questions_List.pdf
+│       Java_Stream_API_Intermediate_And_Terminal_Methods_With_And_Without_Lambda_Expressions.pdf
+│       Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
+│       Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
+│       Java_Stream_Collect_All_Combinations.pdf
+│       Java_String_Class_Vs_Stream_API_Methods_Comparison_With_Examples_And_Use_Cases.pdf
+│       Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
+│       One_Line Code_Example_Of_Each_Combination_Of_Intermediate_And_Terminal_Operations.pdf
+│       Operation_Use_Case_One_Line_Code_Example.pdf
+│       Stream Method.pdf
+│       Terminal_Operation_Allowed_Operations_Inside.pdf
+│
+└───Technology
+        Agile_SDLC_QA_AWS_DevSecOps_Linux.pdf
+        AI_Cybersecurity_System_ElevatorPitch.pdf
+        Algorithms_Java_Python_AI_Master_Table.pdf
+        API_Development_Tools_and_Technologies.pdf
+        Apple_Inbuilt_Apps_iPhone_iPad_Mac_V1_18.pdf
+        Apple_Inbuilt_Apps_Version1_to_18.pdf
+        Architect_Roles_Comparison_Tech_Solution_Enterprise_1.pdf
+        Architect_Roles_Comparison_Tech_Solution_Enterprise_2.pdf
+        BigIT_vs_Small_IT_Company_Growth_Comparison.pdf
+        CDAC_Courses_Eligibility_Table.pdf
+        CDAC_vs_Other_Institutes_Comparison_India.pdf
+        Commonly_Used_Social_Media_Platforms_In_India.pdf
+        Common_Design_Patterns_Usage_Guide.pdf
+        Communication_Skills_Parts_Master_Table.pdf
+        Company_Websites_CareerPages_Table_Remote_Job.pdf
+        Customer_Support_Process_Tools_Interview_QA.pdf
+        CyberSecurity_Threats_Internal_External_List.pdf
+        CyberThreats_Internal_External_AI_Mitigation.pdf
+        Databases_100plus_WhenToUse_WhenNot.pdf
+        DataStructures_Java_Python_AI_MasterTable.pdf
+        DigitalOcean_Services_Free_vs_Paid_List.pdf
+        Django_CRUD_AI_App_Walkthrough_Project.pdf
+        Domain_Validation_Parameters_List.pdf
+        Email_Validation_Parameters_List.pdf
+        Frontend_UI_Tech_2025_UseCases.pdf
+        Govt_IT_Jobs_Requiring_Private_Experience_India.pdf
+        India_Cloud_Roles_Comparison_Salary_Certs.pdf
+        IT_CareerPath_Experience_Salary_India.pdf
+        IT_Career_Opportunities_Master_List.pdf
+        IT_Company_Categories_India_Examples_Table.pdf
+        IT_Govt_Jobs_India_Central_State_Table.pdf
+        IT_Industry_Standard_SOPs_Master_List.pdf
+        IT_Interview_QA_13_15Years_Master_Guide..pdf
+        IT_Software_Principles_Master_Table.pdf
+        IT_Technologies_WhenToUse_WhenNot.pdf
+        Kafka_Classes_Methods_Reference.pdf
+        Kafka_Terminology_MasterTable.pdf
+        Login_Feature_Implementations_Types_UseCases.pdf
+        Maven_POM_XML_and_Commands_Guide.pdf
+        Mobile_Device_Cloning_Methods_And_Security_Risks_Guide.pdf
+        Mobile_Security_Attack_Vectors_And_Prevention_Guide.pdf
+        Programming_Languages_Core_Concepts_Table.pdf
+        Programming_Languages_WhenToUse_WhenNot.pdf
+        Projects_Technologies_Required_Categorized_Repository.pdf
+        Remote_Desktop_Tools_Comparison_Table.pdf
+        Remote_Machine_Connection_Tools.pdf
+        Resume_Keywords_MasterList_IT.pdf
+        SOAP_vs_REST_API_Comparison_Industry.pdf
+        Software_Development_Methodologies_Master_Table.pdf
+        Software_Principles_Master_Table.pdf
+        Software_Types_Classification_Table.pdf
+        Spacelift_IaC_CICD_Platform_Overview.pdf
+        Tech_Company_Group_Acronyms.pdf
