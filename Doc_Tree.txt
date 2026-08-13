@@ -334,24 +334,24 @@
 │       Types_of_Principles_in_Java_1_to_21.pdf
 │
 ├───Java_Stream_API
-│       50_Java_Stream_Api_Coding_Interview_Problems_With_Solutions.pdf
-│       Java8_All_Interface_Types_With_Code_Examples.pdf
-│       Java8_Lambda_Internal_Working.pdf
-│       Java_ForEach_Method_Internal_Working_And_Examples.pdf
-│       Java_Functional_Interface_Explanation_Example.pdf
-│       Java_Functional_Interface_Target_Type _Explanation_Example.pdf
-│       Java_Generic_Types_Concept_Usage_In_Collections.pdf
-│       Java_Stream_API_100_Plus_FAANG_MAANG_Global_Companies_Interview_Questions_List.pdf
-│       Java_Stream_API_Intermediate_And_Terminal_Methods_With_And_Without_Lambda_Expressions.pdf
-│       Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
-│       Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
-│       Java_Stream_Collect_All_Combinations.pdf
-│       Java_String_Class_Vs_Stream_API_Methods_Comparison_With_Examples_And_Use_Cases.pdf
-│       Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
-│       One_Line Code_Example_Of_Each_Combination_Of_Intermediate_And_Terminal_Operations.pdf
-│       Operation_Use_Case_One_Line_Code_Example.pdf
-│       Stream Method.pdf
-│       Terminal_Operation_Allowed_Operations_Inside.pdf
+│   │   50_Java_Stream_Api_Coding_Interview_Problems_With_Solutions.pdf
+│   │   Java_8_All_Interface_Types_With_Code_Examples.pdf
+│   │   Java_8_Lambda_Internal_Working.pdf
+│   │   Java_Stream_API_100_Plus_FAANG_MAANG_Global_Companies_Interview_Questions_List.pdf
+│   │   Java_Stream_Collect_All_Combinations.pdf
+│   │   Java_String_Class_Vs_Stream_API_Methods_Comparison_With_Examples_And_Use_Cases.pdf
+│   │   One_Line Code_Example_Of_Each_Combination_Of_Intermediate_And_Terminal_Operations.pdf
+│   │   Operation_Use_Case_One_Line_Code_Example.pdf
+│   │   Stream Method.pdf
+│   │   Terminal_Operation_Allowed_Operations_Inside.pdf
+│   │
+│   └───Printed
+│           Java_Collection_Iteration_Methods_From_Version_1_To_21_With_Examples.pdf
+│           Java_Functional_Interface_Explanation_Example.pdf
+│           Java_Functional_Interface_Target_Type _Explanation_Example.pdf
+│           Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
+│           Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
+│           Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
 │
 └───Technology
         Agile_SDLC_QA_AWS_DevSecOps_Linux.pdf
