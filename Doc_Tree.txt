@@ -264,6 +264,40 @@
 │       13_Java_1.8_Existence_Checks.pdf
 │       14_Java_1.8_Negative_Validation.pdf
 │
+├───Java_Advantages_And_Disadvantages_1_To_26
+│       1.0_Java_Advantages_And_Disadvantages_1_To_26_Part_1.pdf
+│       1.0_Java_Advantages_And_Disadvantages_1_To_26_Part_2.pdf
+│       1.0_Java_Advantages_And_Disadvantages_1_To_26_Part_3.pdf
+│       1.1_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.2_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.3_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.4_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.5_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.6_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.7_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.8_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       1.9_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       10_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       11_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       12_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       13_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       14_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       15_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       16_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       17_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       18_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       19_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       20_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       21_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       22_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       23_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│       24_Java_Advantages_And_Disadvantages_1_To_26_Part_1.pdf
+│       24_Java_Advantages_And_Disadvantages_1_To_26_Part_2.pdf
+│       24_Java_Advantages_And_Disadvantages_1_To_26_Part_3.pdf
+│       25_Java_Advantages_And_Disadvantages_1_To_26_Part_1.pdf
+│       25_Java_Advantages_And_Disadvantages_1_To_26_Part_2.pdf
+│       26_Java_Advantages_And_Disadvantages_1_To_26.pdf
+│
 ├───Java_Collections
 │       Java_Collections_All_Possible_Conversions_With_Code_Examples.pdf
 │       Java_Collections_Classes_and_Hierarchy_Complete_Guide.pdf
@@ -348,6 +382,39 @@
 │           Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
 │           Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
 │           Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
+│
+├───Java_Version_Year_Feature_UniqueClassName_Reference
+│       1.0_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_1.pdf
+│       1.0_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_2.pdf
+│       1.0_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_3.pdf
+│       1.1_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.2_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.3_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.4_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.5_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.6_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.7_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.8_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       1.9_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       10_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       11_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       12_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       13_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       14_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       15_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       16_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       17_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       18_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       19_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       20_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       21_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       22_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       23_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│       24_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_1.pdf
+│       24_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_2.pdf
+│       25_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_1.pdf
+│       25_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_2.pdf
+│       26_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
 │
 └───Technology
         Agile_SDLC_QA_AWS_DevSecOps_Linux.pdf
