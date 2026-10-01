@@ -1,6 +1,7 @@
 │   Tech_Company_Group_Acronyms.pdf
 │
 ├───AI_Doc
+│       AgenticAI_Technologies_Tools_Software_Complete_List.pdf
 │       AI_Agents_Plugins_By_Language_IDE.pdf
 │       AI_CloudDevOps_Integration_UseCase.pdf
 │       AI_DesignPatterns_Master_UseCases_Products.pdf
@@ -10,12 +11,15 @@
 │       AI_Libraries_Company_UseCases.pdf
 │       AI_ML_DL_DS_Difference_UseCases_Diagram.pdf
 │       AI_Models_By_Category_Table.pdf
+│       AI_Models_Types_ITIndustry_RealTime_UseCases_Guide.pdf
 │       AI_Model_Types_Comparison_Table.pdf
 │       AI_Strategy_Callcenter_Customerservice_Scoring.pdf
 │       AI_Terminology_ModelTypes_UseCases_Master.pdf
 │       ai_terms_all_642_complete.xlsx
 │       AI_Tools_List_UseCases_Purpose.pdf
+│       ChatGPT_Agents_Usage_Instructions_Complete_Guide.pdf
 │       Deploy_AI_App_OpenAI_Clarification.pdf
+│       Prompt_Engineering_Types_ByDomain_Complete_Guide.pdf
 │       Python_AI_Modules_UseCases.pdf
 │
 ├───Blockchain
@@ -305,23 +309,61 @@
 │       Java_Collections_Internal_DS_Interview_Table.pdf
 │
 ├───Java_Doc
+│       ChatGPT Image Aug 23, 2026, 03_26_20 PM.png
+│       ChatGPT Image Aug 23, 2026, 03_26_25 PM.png
+│       Codex Image Aug 20, 2026, 10_05_47 AM.png
+│       Codex Image Aug 20, 2026, 10_06_00 AM.png
 │       Compatible Feature.pdf
 │       Convert_Array_To_All_Java_8_Collections_With_Examples.pdf
 │       DSA_Java_1.8_Interview_Questions_Code.pdf
 │       Explanation_Of_==_Vs_Equals()_Vs_Hashcode().pdf
 │       Java1_to_21_Features_ClassNames.pdf
+│       Java1_to_Java26_Performance_Improving_Features_Complete_Guide.pdf
+│       JavaProject_Code_Understanding_StartToEnd_StepByStep_Guide.pdf
 │       Java_17_LTS_Key_Features.pdf
 │       Java_1_21_Compiler_Comparison.pdf
+│       Java_1_to_21_Features_ClassNames.pdf
+│       Java_26_to_Java1_Features_BackwardCompatibility_Support_Matrix.pdf
+│       Java_8_CollectionsFramework_ConcreteClasses_ComparisonChart_AllParameters_Guide_1.pdf
+│       Java_8_CollectionsFramework_ConcreteClasses_ComparisonChart_AllParameters_Guide_2.pdf
+│       Java_8_Collections_Classes_Comparison_Parameters_Definitions_Examples_Guide.pdf
+│       Java_8_Collections_Framework_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Collections_Map_Framework_All_Interfaces_Concrete_Classes_Guide.pdf
+│       Java_8_Custom_Functional_Interfaces_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Exception_Handling_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Functional_Interfaces_Default_BuiltIn_Methods_Guide.pdf
+│       Java_8_Functional_Interfaces_Design_Patterns_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Functional_Interface_Lambda_Method_Reference_Static_Instance_Initializer_ExecutionSequence.pdf
+│       Java_8_Functions_vs_Methods_Guide.pdf
+│       Java_8_Function_Is_A_Functional_Interface.pdf
+│       Java_8_Interface_Default_Static_Methods_UseCases_Guide.pdf
+│       Java_8_LambdaExpression_vs_MethodReference_Basic_Underlying_Difference_Guide.pdf
+│       Java_8_Map_Interfaces_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_MethodReference_vs_Static_Instance_MethodCall_Guide.pdf
+│       Java_8_Optional_Class_Methods_UseCases_Guide.pdf
+│       Java_8_Overloading_Overriding_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Predicate_SuperT_vs_instanceof_ObjectTypeChecking_Guide.pdf
+│       Java_8_StreamAPI_SQL_Common_Interview_Programming_Questions_Logic_Algorithms_Guide.pdf
 │       Java_8_Stream_Api_Classes_Methods_And_Use_Cases_With_Examples.pdf
+│       Java_8_Stream_API_Execution_Order_Explanation.pdf
+│       Java_8_Thread_Executor_Framework_Function_Predicate_Producer_Consumer_Supplier_Guide.pdf
+│       Java_8_Types_Of_Interfaces_Guide.pdf
 │       Java_Algorithm_ClassTypes_MasterTable.pdf
+│       Java_BoundedGenericClass_vs_FinalClass_Difference_Guide.pdf
+│       Java_Class_Hierarchy_Upcasting_Downcasting_Subclass_Identification_Guide.pdf
 │       Java_CommandLineArgs_Guide_STS.pdf
 │       Java_DayToDay_Classes_Methods_MasterList.pdf
 │       Java_DesignPatterns_CoreConcepts_Enterprise_Master.pdf
 │       Java_Exceptions_Master_Table.pdf
+│       Java_ForEach_Method_Internal_Working_And_Examples.pdf
 │       Java_Full_Feature_List_Java1_To_Java24.pdf
+│       Java_Generics_Static_vs_NonStatic_Keywords_Guide.pdf
 │       Java_invokedynamic_Explained.pdf
+│       Java_JDK_JVM_JRE_JIT_Flowchart_Components_Definitions_Examples_UseCases_Guide.pdf
 │       Java_Keywords_EndToEnd_1_to_21.pdf
+│       Java_Keywords_EndToEnd_1_to_26.pdf
 │       Java_Multithreading_Executor_VirtualThreads_Guide.pdf
+│       Java_ObjectClass_Variables_Methods_Java1_to_26_Guide.pdf
 │       Java_Program.pdf
 │       Java_Roles_Activities_Experience_Comparison.pdf
 │       Java_Roles_OneTime_vs_Daily_Activities.pdf
@@ -332,6 +374,7 @@
 │       Java_Streams_API_100Plus_Interview_Questions_Category_Wise_List.pdf
 │       Java_String_vs_StringBuilder_vs_StringBuffer_Rules.pdf
 │       Java_Terminology_Dictionary_Master.pdf
+│       Java_Thread_vs_ExecutorFramework_Before_After_Comparison_Guide.pdf
 │       Java_Util_Package_Complete_Guide_Arrays_Class.pdf
 │       Java_Versions_1_to_21_WhenToUse.pdf
 │       Java_Versions_Features_UniqueClassNames.pdf
@@ -364,24 +407,22 @@
 │       Types_of_Principles_in_Java_1_to_21.pdf
 │
 ├───Java_Stream_API
-│   │   50_Java_Stream_Api_Coding_Interview_Problems_With_Solutions.pdf
-│   │   Java_8_All_Interface_Types_With_Code_Examples.pdf
-│   │   Java_8_Lambda_Internal_Working.pdf
-│   │   Java_Stream_API_100_Plus_FAANG_MAANG_Global_Companies_Interview_Questions_List.pdf
-│   │   Java_Stream_Collect_All_Combinations.pdf
-│   │   Java_String_Class_Vs_Stream_API_Methods_Comparison_With_Examples_And_Use_Cases.pdf
-│   │   One_Line Code_Example_Of_Each_Combination_Of_Intermediate_And_Terminal_Operations.pdf
-│   │   Operation_Use_Case_One_Line_Code_Example.pdf
-│   │   Stream Method.pdf
-│   │   Terminal_Operation_Allowed_Operations_Inside.pdf
-│   │
-│   └───Printed
-│           Java_Collection_Iteration_Methods_From_Version_1_To_21_With_Examples.pdf
-│           Java_Functional_Interface_Explanation_Example.pdf
-│           Java_Functional_Interface_Target_Type _Explanation_Example.pdf
-│           Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
-│           Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
-│           Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
+│       50_Java_Stream_Api_Coding_Interview_Problems_With_Solutions.pdf
+│       Java_8_All_Interface_Types_With_Code_Examples.pdf
+│       Java_8_Lambda_Internal_Working.pdf
+│       Java_Collection_Iteration_Methods_From_Version_1_To_21_With_Examples.pdf
+│       Java_Functional_Interface_Explanation_Example.pdf
+│       Java_Functional_Interface_Target_Type _Explanation_Example.pdf
+│       Java_Stream_API_100_Plus_FAANG_MAANG_Global_Companies_Interview_Questions_List.pdf
+│       Java_Stream_API_Intermediate_Method_Input_Parameters_List.pdf
+│       Java_Stream_API_Terminal_Method_Input_Parameters_List.pdf
+│       Java_Stream_Collect_All_Combinations.pdf
+│       Java_String_Class_Vs_Stream_API_Methods_Comparison_With_Examples_And_Use_Cases.pdf
+│       Java_Target_Type_Conditional_Expressions_And_Lambda_Expressions_With_Examples.pdf
+│       One_Line Code_Example_Of_Each_Combination_Of_Intermediate_And_Terminal_Operations.pdf
+│       Operation_Use_Case_One_Line_Code_Example.pdf
+│       Stream Method.pdf
+│       Terminal_Operation_Allowed_Operations_Inside.pdf
 │
 ├───Java_Version_Year_Feature_UniqueClassName_Reference
 │       1.0_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_1.pdf
@@ -415,6 +456,24 @@
 │       25_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_1.pdf
 │       25_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26_Part_2.pdf
 │       26_Java_Version_Year_Feature_UniqueClassName_Reference_1_To_26.pdf
+│
+├───Microservices
+│       Microservices_Classes_Methods_DayToDay.pdf
+│       Microservices_DesignPatterns_Deployment_Types_Mapping.pdf
+│       Microservices_DesignPatterns_Master_List.pdf
+│       Microservices_Terminology_Master_Table.pdf
+│
+├───Spring
+│       OAuth2_JWT_Spring_Security_Comparison.pdf
+│       SpringBoot_DayToDay_Classes_Methods_MasterList.pdf
+│       SpringBoot_Principle_AntiPattern_Fix_Code.pdf
+│       SpringBoot_Terminology_Master_List.pdf
+│       SpringFramework_Classes_Annotations_Methods_Master.pdf
+│       Spring_Boot_Compatibility_Matrix_Java_Version_Support.pdf
+│       Spring_Framework_Terminology_Master_Table.pdf
+│       Spring_SpringBoot_Latest_Annotations_Project_Start_to_End_Sequence_Guide.pdf
+│       Spring_SpringBoot_Project_Code_Execution_Order_Console_Output_Guide.pdf
+│       Spring_SpringBoot_TwoProjects_CompleteAnnotationSequence_WorkingCode.pdf
 │
 └───Technology
         Agile_SDLC_QA_AWS_DevSecOps_Linux.pdf
@@ -458,15 +517,25 @@
         Maven_POM_XML_and_Commands_Guide.pdf
         Mobile_Device_Cloning_Methods_And_Security_Risks_Guide.pdf
         Mobile_Security_Attack_Vectors_And_Prevention_Guide.pdf
+        NoCode_Web_Standalone_Application_Software_Tools_Complete_List.pdf
+        Postman_APIs_Different_Inputs_Parameters_Usage_Execution_Guide.pdf
+        Postman_API_Project_All_API_Types_Inputs_Parameters_Guide.pdf
         Programming_Languages_Core_Concepts_Table.pdf
         Programming_Languages_WhenToUse_WhenNot.pdf
         Projects_Technologies_Required_Categorized_Repository.pdf
+        Python1_to_3_14_Version_Year_Features_UniqueClassName_Reference.pdf
         Remote_Desktop_Tools_Comparison_Table.pdf
         Remote_Machine_Connection_Tools.pdf
         Resume_Keywords_MasterList_IT.pdf
         SOAP_vs_REST_API_Comparison_Industry.pdf
+        SoftwareProject_ArchitecturalDiagram_Design_StartToEnd_StepByStep_Guide.pdf
+        SoftwareProject_ArchitecturalDiagram_Understanding_StepByStep_Guide.pdf
+        Software_Development_Diagram_Categories_Complete_Reference.pdf
         Software_Development_Methodologies_Master_Table.pdf
         Software_Principles_Master_Table.pdf
         Software_Types_Classification_Table.pdf
+        SOLID_Principles_in_java_lang_Object_Java1_to_21.pdf
+        SOLID_Principles_in_java_lang_String_Java1_to_21.pdf
         Spacelift_IaC_CICD_Platform_Overview.pdf
         Tech_Company_Group_Acronyms.pdf
+        Transaction_Management_RealWorld_Guide.pdf
